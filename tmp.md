@@ -40,7 +40,7 @@ To do so, we can look at how well Tony Bennett coached players shoot in the NBA 
 | 2012  |                 |     |      |                 |     |      |            |     |      | 0          | 1   | 0%   | 211           | 526  | 40%  |             |     |      | 211  | 527  | 40%  |
 | 2011  |                 |     |      |                 |     |      |            |     |      |            |     |      | 111           | 268  | 41%  |             |     |      | 111  | 268  | 41%  |
 | 2010  |                 |     |      |                 |     |      |            |     |      |            |     |      |               |      |      | 3           | 7   | 43%  | 3    | 7    | 43%  |
-| Total | 154             | 386 | 40%  | 172             | 574 | 30%  | 297        | 717 | 41%  | 269        | 758 | 35%  | 1584          | 3771 | 42%  | 3           | 7   | 43%  | 2479 | 6213 | **40%**  |
+| **Total | 154             | 386 | 40%  | 172             | 574 | 30%  | 297        | 717 | 41%  | 269        | 758 | 35%  | 1584          | 3771 | 42%  | 3           | 7   | 43%  | 2479 | 6213 | 40%  |**
 ### Takeaways
 
 This year, TB coached players are shooting at a combined 45% clip from 3 on almost 200 attempts,
