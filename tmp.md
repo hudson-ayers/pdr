@@ -46,6 +46,7 @@ To do so, we can look at how well Tony Bennett coached players shoot in the NBA 
 This year, TB coached players are shooting at a combined 45% clip from 3 on almost 200 attempts,
 despite Klay shooting 6% below his career average. This alone is pretty incredible.
 
-TB coached players are 40% overall since 2010, a remarkable clip especially considering Justin 
-Anderson shot almost 600 3s in that span.
+TB coached players are 40% overall since 2010, on over 6000 shots -- a remarkable clip over so many players.
 
+So, what should you take away from this? If you are an NBA coach looking to draft a 3 point shooter, look no
+further than players coached by Tony Bennett.
